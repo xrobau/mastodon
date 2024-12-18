@@ -13,7 +13,7 @@ module Mastodon
     end
 
     def patch
-      2
+      '2-wrap'
     end
 
     def default_prerelease
